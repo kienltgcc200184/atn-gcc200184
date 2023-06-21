@@ -29,25 +29,20 @@
                   </div>
                  
                   <hr class="my-4">
-
                   <div class="row mb-4 d-flex justify-content-between align-items-center">
-                    <div class="col-md-2 col-lg-2 col-xl-2">
-                      <img
-                        src="https://www.kindacode.com/wp-content/uploads/2021/08/phone.jpg"
-                        class="img-fluid rounded-3" alt="">
+                    <div class="col-md-2 col-lg-2 col-xl-2">  
                     </div>
                     <div class="col-md-3 col-lg-3 col-xl-3">
-                      <img src="images/k61keyboard.jpg" width="50" height="70"/>
+                      <img src="product-imgs/ENTRY-GRADE-STRIKE-GUNDAM-AZGUNDAM.jpg" width="50" height="70"/>
                       <h6 class="text-muted"></h6>
-                      <h6 class="text-black mb-0">ZIYOU LANG K61 K  eyboard</h6>
+                      <h6 class="text-black mb-0">Entry Grade Strike Gundam</h6>
                     </div>
                     <div class="col-md-3 col-lg-3 col-xl-2 d-flex">
-
                       <input id="form1" min="0" name="quantity" value="1" type="number"
                         class="form-control form-control-sm" />
                     </div>
                     <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1">
-                      <h6 class="mb-0"><span>&#8363;</span> 520000</h6>
+                      <h6 class="mb-0"><span>&#8363;</span>199000</h6>
                     </div>
                   
                     <div class="col-md-1 col-lg-1 col-xl-1 text-end">
